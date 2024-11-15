@@ -1,4 +1,4 @@
-#ATM Management System
+# ATM Management System
 
 Duration: July 2022 – December 2022
 
