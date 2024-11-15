@@ -21,8 +21,8 @@ Component and Deployment Diagrams for architectural and deployment modeling.
 Performance Optimization: Ensured reliability and scalability to handle concurrent user transactions efficiently.
 Key Outcomes and Achievements
 In-depth System Design Skills: Mastered the application of UML diagrams in real-world projects to bridge the gap between conceptual design and practical implementation.
-Team Collaboration: Coordinated with team members to align on design principles, coding standards, and documentation processes.
-Innovation Recognition: Received accolades for the innovative integration of security measures and user-centric features in the project.
+Team Collaboration: Coordinated with team members to align design principles, coding standards, and documentation processes.
+Innovation Recognition: Received accolades for integrating security measures and user-centric features in the project.
 Time Management: Delivered the project within the stipulated timeline while adhering to academic guidelines.
 Transferable Skills
 Problem-Solving: Resolved technical challenges, including managing database connectivity, optimizing query performance, and ensuring error-free transactions.
