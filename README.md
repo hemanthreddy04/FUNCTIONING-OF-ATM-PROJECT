@@ -6,7 +6,7 @@ Institution: SRM University, Kattankulathur
 
 Guided by: Mrs. Parimala G, Assistant Professor
 
-#Objective: Developed an automated solution for ATM-based financial transactions, enabling users to perform secure and efficient banking operations such as cash withdrawal, deposits, and balance inquiries.
+# Objective: Developed an automated solution for ATM-based financial transactions, enabling users to perform secure and efficient banking operations such as cash withdrawal, deposits, and balance inquiries.
 
 Role: Lead Developer and System Designer
 
@@ -20,7 +20,7 @@ Database: MS SQL Server 2005
 
 Design Tools: Visual Paradigm for UML diagramming
 
-Project Deliverables:
+# Project Deliverables:
 
 Backend Functionality: Designed modules for login authentication, transaction processing, and user account management.
 
@@ -38,7 +38,7 @@ Component and Deployment Diagrams for architectural and deployment modeling.
 
 Performance Optimization: Ensured reliability and scalability to handle concurrent user transactions efficiently.
 
-Key Outcomes and Achievements
+# Key Outcomes and Achievements
 
 In-depth System Design Skills: Mastered the application of UML diagrams in real-world projects to bridge the gap between conceptual design and practical implementation.
 
@@ -48,7 +48,7 @@ Innovation Recognition: Received accolades for integrating security measures and
 
 Time Management: Delivered the project within the stipulated timeline while adhering to academic guidelines.
 
-Transferable Skills
+# Transferable Skills
 
 Problem-Solving: Resolved technical challenges, including managing database connectivity, optimizing query performance, and ensuring error-free transactions.
 
@@ -62,11 +62,11 @@ Adaptability: Learned and utilized new tools and technologies to meet the projec
 
 Technical Proficiencies
 
-Languages: Java, SQL
+# Languages: Java, SQL
 
-Database Management: MS SQL Server, Oracle SQL Frameworks
+# Database Management: MS SQL Server, Oracle SQL Frameworks
 
-Development Tools: NetBeans, Visual Paradigm, UML Design Tools
+# Development Tools: NetBeans, Visual Paradigm, UML Design Tools
 
 A key highlight of the project was the application of Object-Oriented Design Principles (OODP) and the development of comprehensive UML diagrams (Use Case, Class, Sequence, Activity, Component, Deployment, and Package diagrams) using Visual Paradigm. These diagrams were instrumental in visualizing system architecture, user workflows, and dynamic interactions. This experience enhanced my ability to analyze complex systems, structure their components, and optimize workflows effectively.
 
