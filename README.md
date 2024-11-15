@@ -1,6 +1,9 @@
 ATM Management System
+
 Duration: July 2022 – December 2022
+
 Institution: SRM University, Kattankulathur
+
 Guided by: Mrs. Parimala G, Assistant Professor
 
 Objective: Developed an automated solution for ATM-based financial transactions, enabling users to perform secure and efficient banking operations such as cash withdrawal, deposits, and balance inquiries.
